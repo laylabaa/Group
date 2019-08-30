@@ -11,3 +11,11 @@ body {
 .jumbotron {
   background-image: "movie.jpg";
 }
+
+.centertext{
+  text-align: center;
+}
+
+element.style {
+    text-align: center;
+}
