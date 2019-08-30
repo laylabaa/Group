@@ -34,3 +34,7 @@ element.style {
   padding-bottom: 250px;
   color: black;
 }
+
+.pinknav {
+    background-color: pink;
+}
