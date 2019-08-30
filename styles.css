@@ -1,5 +1,5 @@
 body {
-  padding-top: 2rem;
+  padding-top: 1rem;
 }
 .starter-template {
   padding: 3rem 1.5rem;
@@ -18,4 +18,19 @@ body {
 
 element.style {
     text-align: center;
+}
+
+.starter-template {
+    padding: 0;
+    text-align: center;
+}
+
+.carousel-inner{
+       height: 580px;
+    }
+
+
+.carousel-caption{
+  padding-bottom: 250px;
+  color: black;
 }
